@@ -1,3 +1,4 @@
+<img width="1080" height="2392" alt="1000097865" src="https://github.com/user-attachments/assets/3e7e51b4-ad51-410d-8471-b287c06e7057" />
 ---
 manufacturer: 
     - sony
